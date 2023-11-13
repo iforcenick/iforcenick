@@ -25,7 +25,6 @@ I'm a Senior Software Engineer with a proven working history.
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/rust/rust.png" style="max-width:100%;"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terraform/terraform.png" style="max-width:100%;"></code>
 - 👯 I’m looking for an opportunity to collaborate with excellent teams for long.
-- 📫 How to reach me: alecwsaylor@gmail.com
 
 <p><strong>More Technology Stack</strong></p>
 <p>
